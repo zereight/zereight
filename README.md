@@ -3,6 +3,3 @@
 ### Web FrontEnd Developer
 
 [LinkedIn](https://www.linkedin.com/in/kim-jeong-hyeok-14635519a/)
-
-
-![김정혁's github stats](https://github-readme-stats.vercel.app/api?username=zereight&show_icons=true)
