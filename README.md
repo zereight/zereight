@@ -7,7 +7,6 @@
 - **[teams-agent-bridge](https://github.com/zereight/teams-agent-bridge)**: drive Claude Code, pi and Codex from your Microsoft Teams self-chat, with a guard that blocks pushes and `.env` reads
 - **[zer](https://github.com/zereight/zer)**: a Rust CLI that reads a git diff and checks that review findings point at lines inside it (no model calls)
 - **Pi agent extensions & setup**: [pi-cursor](https://github.com/zereight/pi-cursor) · [pi-stack](https://github.com/zereight/pi-stack) · [pi-zereight-router](https://github.com/zereight/pi-zereight-router) · [pi-skill-inline-autocomplete](https://github.com/zereight/pi-skill-inline-autocomplete) · [my-pi-setting](https://github.com/zereight/my-pi-setting)
-- **[skill](https://github.com/zereight/skill)**: personal agent skills for code review and React Native
 
 ### 🎼 Muse Code add-ons
 - **[muse-effort-router](https://github.com/zereight/muse-effort-router)**: per-prompt reasoning-effort router for Muse Code. It keeps one sticky session and picks the effort for each prompt, so cheap prompts run cheap and hard ones run deep
