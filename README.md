@@ -6,7 +6,7 @@
 - **[robot](https://github.com/zereight/robot)**: run a small team of AI agents on your own computer, the way you work with people on a chat server (desktop app)
 - **[teams-agent-bridge](https://github.com/zereight/teams-agent-bridge)**: drive Claude Code, pi and Codex from your Microsoft Teams self-chat, with a guard that blocks pushes and `.env` reads
 - **[zer](https://github.com/zereight/zer)**: a Rust CLI that reads a git diff and checks that review findings point at lines inside it (no model calls)
-- **[small-change](https://github.com/zereight/small-change)**: a CLI that decides whether a Bitbucket Cloud pull request is small enough to skip a full review (size, review findings, author history, affected services). An optional LLM review posts findings whose P1/P2 grade has to be proven by quotes the tool checks
+- **[small-change](https://github.com/zereight/small-change)**: a CLI that decides whether a Bitbucket Cloud pull request is small enough to skip a full review (size, review findings, author history, affected services).
 - **Pi agent extensions & setup**: [pi-cursor](https://github.com/zereight/pi-cursor) · [pi-stack](https://github.com/zereight/pi-stack) · [pi-zereight-router](https://github.com/zereight/pi-zereight-router) · [pi-skill-inline-autocomplete](https://github.com/zereight/pi-skill-inline-autocomplete) · [my-pi-setting](https://github.com/zereight/my-pi-setting)
 
 ### 🎼 Muse Code add-ons
